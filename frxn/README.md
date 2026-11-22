@@ -1,6 +1,7 @@
 ---
-icon: screwdriver-wrench
+tagTitle: HackTheBox
+icon: cube
 ---
 
-# Tools
+# HackTheBox
 
