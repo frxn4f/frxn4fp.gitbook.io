@@ -1,2 +1,0 @@
-# NetExec (NXC)
-

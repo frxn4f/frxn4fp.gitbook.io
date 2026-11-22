@@ -34,19 +34,3 @@
     * [Escape](write-ups/htb/medium/escape.md)
   * [🔴 Hard](write-ups/htb/hard.md)
   * [🟣 Insane](write-ups/htb/insane.md)
-
-## CheatSheets
-
-* [Tools](<README (1).md>)
-  * [Enumeration](cheatsheets/tools/enumeration/README.md)
-    * [NetExec (NXC)](cheatsheets/tools/enumeration/netexec-nxc/README.md)
-      * [Modules](cheatsheets/tools/enumeration/netexec-nxc/modules/README.md)
-        * [SMB](cheatsheets/tools/enumeration/netexec-nxc/modules/smb.md)
-        * [LDAP](cheatsheets/tools/enumeration/netexec-nxc/modules/ldap.md)
-        * [WinRM](cheatsheets/tools/enumeration/netexec-nxc/modules/winrm.md)
-        * [MSSQL](cheatsheets/tools/enumeration/netexec-nxc/modules/mssql.md)
-        * [WMI](cheatsheets/tools/enumeration/netexec-nxc/modules/wmi.md)
-* [Enumeration](cheatsheets/enumeration/README.md)
-  * [(88) Kerberos](cheatsheets/enumeration/88-kerberos.md)
-  * [(139-445) SMB](cheatsheets/enumeration/smb.md)
-* [Port Scanning](cheatsheets/port-scanning.md)
