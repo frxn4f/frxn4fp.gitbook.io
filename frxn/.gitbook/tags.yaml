@@ -1,0 +1,150 @@
+- tag: lfi
+  label: LFI
+- tag: ssrf
+  label: SSRF
+- tag: cve-2023-2255
+  label: CVE-2023-2255
+- tag: cve-2021-43798
+  label: CVE-2021-43798
+- tag: github
+  label: Github
+- tag: consul
+  label: Consul
+- tag: libreoffice
+  label: LibreOffice
+- tag: active-directory
+  label: Active Directory
+  color: blue
+- tag: smb
+  label: SMB
+  color: orange
+- tag: kerberos
+  label: Kerberos
+  color: yellow
+- tag: ftp
+  label: FTP
+  color: red
+- tag: seimpersonateprivilege
+  label: SeImpersonatePrivilege
+- tag: iis
+  label: IIS
+- tag: sebackupprivilege
+  label: SeBackupPrivilege
+- tag: xxe
+  label: XXE
+  color: blue
+- tag: php-wrappers
+  label: PHP Wrappers
+  color: pink
+- tag: python-eval-injection
+  label: Python Eval Injection
+- tag: metasploit
+  label: Metasploit
+- tag: eternal-blue
+  label: Eternal Blue
+- tag: wordpress
+  label: WordPress
+- tag: gdb-server
+  label: GDB Server
+- tag: directory-traversal
+  label: Directory Traversal
+  color: $info
+- tag: pwnkit
+  label: PwnKit
+- tag: coldfusion
+  label: ColdFusion
+- tag: python-module-hijacking
+  label: Python Module Hijacking
+- tag: arbitrary-file-read
+  label: Arbitrary File Read
+- tag: gpp-password-decryption
+  label: GPP Password Decryption
+- tag: xss
+  label: XSS
+  color: $primary
+- tag: session-hijacking
+  label: Session Hijacking
+- tag: os-command-injection
+  label: OS Command Injection
+  color: red
+- tag: relative-path-script-hijacking
+  label: Relative Path Script Hijacking
+- tag: ldap
+  label: LDAP
+  color: yellow
+- tag: winrm
+  label: WinRM
+  color: $info
+- tag: cracking
+  label: Cracking
+  color: $danger
+- tag: cisco
+  label: Cisco
+- tag: sysinternals
+  label: Sysinternals
+- tag: flask
+  label: Flask
+- tag: ssti
+  label: SSTI
+  color: violet
+- tag: file-upload
+  label: File Upload
+- tag: web
+  label: Web
+- tag: openerm
+  label: OpenERM
+- tag: cve-2018-15152
+  label: CVE-2018-15152
+- tag: cve-2018-15143
+  label: CVE-2018-15143
+- tag: cve-2018-15154
+  label: CVE-2018-15154
+- tag: authentication-bypass
+  label: Authentication Bypass
+- tag: sql-injection
+  label: SQL Injection
+- tag: sqli-error-based
+  label: SQLi Error-based
+- tag: rce
+  label: RCE
+- tag: docker
+  label: Docker
+- tag: enumeration
+  label: Enumeration
+  color: $success
+- tag: credential-dumping
+  label: Credential Dumping
+  color: $warning
+- tag: privilege-escalation
+  label: Privilege Escalation
+  color: $danger
+- tag: netexec
+  label: NetExec
+- tag: mssql
+  label: MSSQL
+  color: green
+- tag: wmi
+  label: WMI
+- tag: esc4
+  label: ESC4
+- tag: ad-cs-abuse
+  label: AD-CS Abuse
+- tag: reversing
+  label: Reversing
+- tag: .net
+  label: .NET
+- tag: xor-decrypt
+  label: XOR Decrypt
+- tag: genericall
+  label: GenericAll
+- tag: dcsync
+  label: DCSync
+- tag: pass-the-hash
+  label: Pass-The-Hash
+- tag: zerologon
+  label: ZeroLogon
+- tag: cve-2020-1472
+  label: CVE-2020-1472
+- tag: asreproasting
+  label: ASREPRoasting
+  color: pink
