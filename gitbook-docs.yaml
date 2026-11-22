@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: frxn
+  structure:
+    - type: space
+      key: space-1
+      title: frxn
+      path: frxn
+      default: true
+      content:
+        directory: ./frxn
+        language: en
