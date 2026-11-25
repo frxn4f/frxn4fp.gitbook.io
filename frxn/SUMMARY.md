@@ -37,16 +37,14 @@
 
 ## Notes
 
-***
-
-* [Password Attacks](password-attacks/README.md)
-  * [Bruteforce](password-attacks/bruteforce.md)
-  * [Hashcat](password-attacks/hashcat.md)
-  * [NTLM & NTLMv2](password-attacks/ntlm-and-ntlmv2.md)
-  * [Windows Credential Guard](password-attacks/windows-credential-guard.md)
-* [Privilege Escalation](privilege-escalation/README.md)
-  * [Windows](privilege-escalation/windows/README.md)
-    * [Enumeration](privilege-escalation/windows/enumeration.md)
-    * [Services](privilege-escalation/windows/services/README.md)
-      * [Service Binary Hijacking](privilege-escalation/windows/services/service-binary-hijacking.md)
-  * [Linux](privilege-escalation/linux.md)
+* [Privilege Escalation](notes/privilege-escalation/README.md)
+  * [Windows](notes/privilege-escalation/windows/README.md)
+    * [Enumeration](notes/privilege-escalation/windows/enumeration.md)
+    * [Services](notes/privilege-escalation/windows/services/README.md)
+      * [Service Binary Hijacking](notes/privilege-escalation/windows/services/service-binary-hijacking.md)
+  * [Linux](notes/privilege-escalation/linux.md)
+* [Password Attacks](notes/password-attacks/README.md)
+  * [Hashcat](notes/password-attacks/hashcat.md)
+  * [Bruteforce](notes/password-attacks/bruteforce.md)
+  * [NTLM & NTLMv2](notes/password-attacks/ntlm-and-ntlmv2.md)
+  * [Windows Credential Guard](notes/password-attacks/windows-credential-guard.md)
